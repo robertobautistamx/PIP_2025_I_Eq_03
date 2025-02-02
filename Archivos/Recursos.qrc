@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Logos">
+    <file>p05.png</file>
+    <file>p06_1.png</file>
+    <file>p06_2.png</file>
+  </qresource>
+</RCC>
