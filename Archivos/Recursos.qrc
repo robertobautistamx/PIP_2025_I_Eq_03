@@ -1,7 +1,7 @@
 <RCC>
   <qresource prefix="Logos">
-    <file>p05.png</file>
-    <file>p06_1.png</file>
-    <file>p06_2.png</file>
+    <file>facultad_ingenieria_tampico.png</file>
+    <file>UAT.png</file>
+    <file>Castor.jpg</file>
   </qresource>
 </RCC>
